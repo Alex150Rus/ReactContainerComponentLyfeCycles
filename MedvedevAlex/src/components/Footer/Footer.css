@@ -1,0 +1,10 @@
+.container {
+    width: 1140px;
+}
+
+.Footer {
+    background: dimgrey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

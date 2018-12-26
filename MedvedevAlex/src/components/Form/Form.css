@@ -1,0 +1,33 @@
+.Form {
+
+}
+
+.enterBtn {
+    margin-top: 15px;
+}
+
+.loginInput {
+    margin-bottom: 5px;
+}
+
+.loginPassword {
+    margin-top: 5px;
+}
+
+.ButtonWrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.regBtn {
+    margin-top: 15px;
+    margin-right: 40px;
+}
+
+.formPhpMessage {
+    margin-top: 15px;
+}
+
+.errorColor {
+    color: red;
+}

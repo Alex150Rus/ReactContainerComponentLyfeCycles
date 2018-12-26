@@ -1,0 +1,24 @@
+.menuHeader {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.menuList {
+list-style: none;
+}
+
+.menuLink {
+    display: block;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    transition: 1.3s;
+    margin: 0 15px;
+    padding: 16px 0;
+}
+
+.menuLink:hover {
+    transition: 1.3s;
+    color: #ff6771;
+}

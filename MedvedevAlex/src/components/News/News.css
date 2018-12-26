@@ -1,0 +1,38 @@
+.News {
+    background: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: justify;
+}
+
+.newsBlock {
+    margin: 7px 0;
+    padding: 10px 10px;
+    width: 420px;
+    border: 1px solid lightslategrey;
+    border-radius: 7%;
+    font-size: 18px;
+}
+
+.showMoreBtn {
+    border: 0;
+    color: #6998ff;
+    background: none;
+    margin-bottom: 5px;
+}
+
+p {
+    margin: 0;
+}
+
+.newsBlockImg {
+    width: 420px;
+    Height: 250px;
+}
+
+
+h3 {
+    margin: 10px 0;
+    text-align: center;
+}
